@@ -31,7 +31,7 @@ some data for "users" collection
 }
 
 {
-    "Name" : "Zaky Zezo",
+    "Name" : "Adam Adel",
     "Age" : 25,
     "Phone" : "01179517628",
     "Grade" : "D"
